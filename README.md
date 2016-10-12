@@ -1,7 +1,5 @@
 # nude.py
 
-----
-
 Automatic **nudity** detect.
 
 ## Usage
