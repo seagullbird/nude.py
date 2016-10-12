@@ -1,6 +1,12 @@
 # nude.py
 
-Automatic **nudity** detect.
+Automatic **nudity** detect in Python.
+
+## Requirements
+
+- Python 3.x
+- Pillow
+- argparse
 
 ## Usage
 
@@ -36,3 +42,10 @@ True test_case/6.jpg None 706×1000: result=True message='Nude!!'
 
  ![0_Nude](test_case/6_Nude.jpg)
 
+## PS
+
+This project is similar  but different to [hhatto/nude.py]: https://github.com/hhatto/nude.py
+
+Similar in `resize()` and other out configuring and output methods but diffrent in main method  `parse()`. 
+
+Feel free to check the code. 
