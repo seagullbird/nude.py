@@ -44,7 +44,7 @@ True test_case/6.jpg None 706×1000: result=True message='Nude!!'
 
 ## PS
 
-This project is similar  but different to [hhatto/nude.py]: https://github.com/hhatto/nude.py
+This project is similar  but different to [hhatto/nude.py](https://github.com/hhatto/nude.py)
 
 Similar in `resize()` and other out configuring and output methods but diffrent in main method  `parse()`. 
 
